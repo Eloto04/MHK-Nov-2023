@@ -7,5 +7,5 @@ This was programmed in Visual Studio Code.
 - Navigate to the Terminal drop-down menu in the top left, and click on "New Terminal".
 - Open the terminal, and enter "git clone https://github.com/Eloto04/MHK-Nov-2023.git".
 - In the terminal, enter "pip install --upgrade openai". This imports the openai module used by the chatbot.
-- Enter your API key on line 4.
+- Open the "main.py" file in the newly-created "MH-Nov-2023" folder, and enter your API key on line 4.
 - Run the program and have fun!
